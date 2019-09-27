@@ -119,6 +119,7 @@
     }
   ],
   "scripts": {
+    "gulp": "gulp",
     "modernizr": "gulp modernizr"
   },
   "dependencies": {
